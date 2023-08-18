@@ -1,4 +1,4 @@
-# Title: LIVER FAILURE PREDICTION USING MACHINE LEARNING TECHNIQUES
+# Title: Intelligent Liver Disease Prediction and Hospital Recommendation System using Machine Learning Techniques
 
 ##Team Members
 
